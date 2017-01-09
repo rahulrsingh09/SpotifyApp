@@ -1,1 +1,1 @@
-Basic Angular 2 app using Spotify api and angular 2
+Basic Angular 2 app using Spotify api
