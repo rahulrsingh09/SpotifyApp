@@ -1,3 +1,8 @@
-git search using gitapi and angular2
+# GIT Search using GIT API and Angular 2
 
-Copy or clone the repo and go a npm install then npm start
+Copy or clone the repo and do
+
+    npm install
+and then
+
+    npm start
